@@ -29,11 +29,5 @@ node_modules
 # Bower
 bower_components/
 
-<<<<<<< HEAD
-
 # Workspace
 .idea/
-=======
-# workspace
-.idea/workspace.xml
->>>>>>> 0db759827370eb602f51daa4752ecf502490b646
